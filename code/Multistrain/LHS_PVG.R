@@ -8,6 +8,10 @@
 # LHS scan
 library(lhs)
 
+#seed
+
+set.seed(1) # for reproducibility
+
 #Parameter ranges
 
 

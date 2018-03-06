@@ -12,6 +12,10 @@ eta1=1/L1  #lysis rate of infected cells (per hour)
 
 library(lhs)
 
+#seed
+
+set.seed(1) # for reproducibility
+
 #Parameter ranges
 
 
